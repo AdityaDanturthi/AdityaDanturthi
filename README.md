@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am <a href="https://www.linkedin.com/in/adityadanturthi">Aditya Danturthi</a></h1>
  
-<h2 align="center"><a href="https://github.com/AdityaDanturthi">Software Engineer</a> | <a href="https://github.com/AdityaDanturthi">Data Analyst</a> | <a href="https://public.tableau.com/app/profile/aditya1935#!/"><img src="https://user-images.githubusercontent.com/19298511/155864504-909cf692-55cf-4604-b939-4b154e048cd6.svg" title="Tableau" width="40" height="20"></a> </h2>
+<h2 align="center"><a href="https://github.com/AdityaDanturthi">Software Engineer</a> | <a href="https://github.com/AdityaDanturthi">Data Analyst</a> | <a href="https://public.tableau.com/app/profile/aditya1935#!/">Tableau</a> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadanturthi&label=Profile%20views&color=0e75b6&style=flat" alt="adityadanturthi" /> </p>
 
