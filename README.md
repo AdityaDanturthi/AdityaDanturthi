@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadanturthi" alt="adityadanturthi" /></a> </p>
 
-// - 🔭 I’m currently working on **Portfolio website** //
-
 - 🌱 I’m currently learning **Javascript, ReactJS and Python**
 
 - 💬 Ask me about **Tableau, Power BI, pandas,scikit learn, jupyter notebooks and SQL**
