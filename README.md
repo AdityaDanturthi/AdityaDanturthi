@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript, ReactJS and Python**
 
-- 💬 Ask me about **Tableau, Power BI, pandas,scikit learn, jupyter notebooks and SQL**
+- 💬 Ask me about **Tableau, Power BI, Pandas, scikit-learn, Jupyter Notebooks and SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/adityadanturthi**
 
