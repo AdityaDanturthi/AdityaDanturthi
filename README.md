@@ -54,9 +54,9 @@
   <img src ="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="4%" title='Tableau'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="4%" title='Power BI'/>
 </div>
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadanturthi&show_icons=true&locale=en&layout=compact" alt="adityadanturthi" /></p>
-<br><br>
+<br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadanturthi&show_icons=true&locale=en" alt="adityadanturthi" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadanturthi&" alt="adityadanturthi" /></p>
