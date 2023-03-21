@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityadanturthi" alt="adityadanturthi" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJS and Python**
+- 🌱 I’m currently learning **Javascript and ReactJS**
 
-- 💬 Ask me about **Tableau, Power BI, Pandas, scikit-learn, Jupyter Notebooks and SQL**
+- 💬 Ask me about **Python, Tableau, Power BI, Pandas, scikit-learn, Jupyter Notebooks and SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/adityadanturthi**
 
