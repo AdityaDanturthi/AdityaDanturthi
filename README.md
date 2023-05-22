@@ -25,14 +25,24 @@
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width="3%" title='CSS3'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript logo" width="3.5%" title='JavaScript'/>
+    <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJS logo" width="3.5%" title='ReactJS'/>
+   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind logo" width="3.5%" title='Tailwind CSS'/>
+<div> 
 <div> 
  
  ### Programming Languages
 
 <div>
-  <img src ="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" alt="mysql logo" width="7%" title='MYSQL'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python logo" width="4%" title='Python'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="C logo" width="4%" title='C'/>
+</div>
+ 
+  ### Databases
+
+<div>
+  <img src ="https://cdn.freebiesupply.com/logos/large/2x/mysql-logo-svg-vector.svg" alt="mysql logo" width="7%" title='MYSQL'/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreSQL logo" width="4%" title='PostgreSQL'/>
+ <img src ="https://www.sqlservertutorial.net/wp-content/uploads/sql-server-tutorial.svg" alt="MicrosoftSQL Server logo" width="5%" title='MicrosoftSQL Server'/>
 </div>
 
   ### Data Science
@@ -47,12 +57,25 @@
  <img src ="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png"  width="4%" title='seaborn'/>
 </div>
  
- ### Tools
+ ### Visualization Tools
+
+<div>
+  <img src ="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="4%" title='Tableau'/>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="4%" title='Power BI'/>
+ </div>
+ 
+### Design Tools
+
+<div>
+  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="3%" title='Figma'/>
+  <img src ="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="4%" title='Canva'/>
+ </div>
+ 
+ ### Code Editor
 
 <div>
   <img src ="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="4%" title='Visual Studio Code'/>
-  <img src ="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="4%" title='Tableau'/>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" width="4%" title='Power BI'/>
+</div>
 </div>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityadanturthi" alt="adityadanturthi" /></p>
